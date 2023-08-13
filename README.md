@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @basilmakama
-- 👀 I’m interested in Software and Web Development 
+- 👀 I’m interested in DevOps and Cloud Architecture
 - 🌱 I’m currently learning Cloud Computing using AWS
 - 💞️ I’m looking to collaborate on any interesting projects 
 - 📫 You can reach me on basilmakama@gmail.com
